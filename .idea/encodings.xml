@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core/src/main/java/c/okami/core/domain/User.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core/src/main/java/c/okami/core/support/annotation/Domain.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core/src/main/java/c/okami/core/support/cache/CacheProvider.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core/src/main/java/c/okami/core/support/hibernate/BasicDomain.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core/src/main/java/c/okami/core/support/hibernate/DataGridPage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core/src/main/java/c/okami/core/support/hibernate/DomainHibernateImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core/src/main/java/c/okami/core/support/hibernate/IBasicDomain.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core/src/main/java/c/okami/core/support/hibernate/IdentityBasicDomain.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core/src/main/java/c/okami/core/support/hibernate/MysqlDialect.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core/src/main/java/c/okami/core/support/hibernate/query/AbstractQueryBuilder.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core/src/main/java/c/okami/core/support/hibernate/query/AbstractXQLQueryBuilder.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core/src/main/java/c/okami/core/support/hibernate/query/IQueryBuilder.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core/src/main/java/c/okami/core/support/hibernate/query/PageData.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core/src/main/java/c/okami/core/support/hibernate/query/hql/HQLQueryBuilder.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core/src/main/java/c/okami/core/support/hibernate/query/qbc/EntityCriteria.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core/src/main/java/c/okami/core/support/hibernate/query/qbc/EntityQueryBuilder.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core/src/main/java/c/okami/core/support/hibernate/query/qbc/IEntityCriteria.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core/src/main/java/c/okami/core/support/hibernate/query/qbc/OrderBy.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core/src/main/java/c/okami/core/support/hibernate/query/qbc/Where.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core/src/main/java/c/okami/core/support/hibernate/query/sql/SqlQueryBuilder.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core/src/main/java/c/okami/core/support/spring/SpringApplicationContext.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/src/environment" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

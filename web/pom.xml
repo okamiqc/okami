@@ -8,17 +8,22 @@
     <modelVersion>4.0.0</modelVersion>
     <artifactId>web</artifactId>
     <packaging>war</packaging>
-    <name>web Maven Webapp</name>
-    <url>http://maven.apache.org</url>
+    <build>
+        <sourceDirectory>src/main/java</sourceDirectory>
+        <resources>
+            <resource>
+                <directory>src/main/resources</directory>
+            </resource>
+            <resource>
+                <directory>src/environment/${package.environment}</directory>
+            </resource>
+        </resources>
+    </build>
     <dependencies>
         <dependency>
-            <groupId>junit</groupId>
-            <artifactId>junit</artifactId>
-            <version>3.8.1</version>
-            <scope>test</scope>
+            <groupId>c.okami</groupId>
+            <artifactId>core</artifactId>
+            <version>${project.version}</version>
         </dependency>
     </dependencies>
-    <build>
-        <finalName>web</finalName>
-    </build>
 </project>
